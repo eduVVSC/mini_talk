@@ -1,11 +1,11 @@
 ## Mini_talk Project
-<p></p>
+<p> The mini_talk project is about devoloping a connection between two devices, a server and a client, and create communication between them, in this case, the client must send a message to the server and the server should interpretate it and display the same message in the terminal.</p>
 
 
 ### Main developed areas:
-<p>  </p>
-<p>  </p>
-<p>  </p>
+<p> - Understanding and handling of signals;</p>
+<p> - Stablishing simple connections;</p>
+<p> - Bitwise;</p>
 
 
 ## How to use it:
@@ -18,13 +18,12 @@
 <p> The other you will open the client followed by PID, that were display by the server, and the message that you wanna send:</p>
 
 
-
 ## Program Development:
-<p>  </p>
+<p> In order to develop the program</p>
 
 ### Conection:
-<p> The animation was one of the longest parts of the program, just because I had create a lot of functions just to make it work. The explaining about how it works is quite simple, whenever you press one of the keys that make the character walk(W,A,S,D) and the direction where you pressed to has a walkable space, the game is going to display 4 sequencial images that combined will make the walking animation.</p>
+<p> </p>
 
-### Bitwise:
-<p> The minilibx is the library that we have available to use to make the part usable of the game, the movements and the screen. </p>
+### Bitwise and Signal handling:
+<p> </p>
 
