@@ -15,9 +15,8 @@
 
 <p> Then you are going to open 2 terminals, one you will open the server:</p>
 
-<p> The other you will open the client followed by PID that were display by the server:</p>
+<p> The other you will open the client followed by PID, that were display by the server, and the message that you wanna send:</p>
 
-<p>  Than just type any message on </p>
 
 
 ## Program Development:
