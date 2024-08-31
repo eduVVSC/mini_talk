@@ -1,4 +1,4 @@
-## Mini_talk Project
+<h1 align="center"> Mini_talk Project </h1>
 <p> The mini_talk project is about devoloping a connection between two devices, a server and a client, and create communication between them, in this case, 
   the client must send a message to the server and the server should interpretate it and display the same message in the terminal.</p>
 
